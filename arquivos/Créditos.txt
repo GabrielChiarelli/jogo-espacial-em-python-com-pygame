@@ -1,0 +1,22 @@
+Oi, eu sou o Gabriel.
+Desenvolvi esse jogo utilizando a linguagem de programação Python, com o módulo PyGame :)
+
+Aqui estão os créditos dos assets que usei:
+
+Gráficos:
+
+Space Shooter Redux [Kenney] - https://www.kenney.nl/assets/space-shooter-redux
+
+Superpowers [Sparklin Labs] - https://sparklinlabs.itch.io/superpowers
+
+Músicas e Efeitos Sonoros:
+
+Som da Explosão (Soundpack 03) [crazyduckgames] - https://opengameart.org/content/soundpack-03
+
+Som do Laser (8-bit Laser) [timgormly] - https://freesound.org/people/timgormly/sounds/170161/
+Licensed under Creative Commons: By Attribution 3.0 License
+http://creativecommons.org/licenses/by/3.0/
+
+Música de Fundo (Fast fight / battle music (looped)) [XCVG] - https://opengameart.org/content/fast-fight-battle-music-looped
+
+Música de Game Over (game over) [Leszek_Szary] - https://freesound.org/people/Leszek_Szary/sounds/133283/
